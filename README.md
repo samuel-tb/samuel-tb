@@ -5,7 +5,7 @@
 
 <br>
 
-Sou Bacharel em Sistemas de Informação e atualmente estou expandindo meu portfólio no desenvolvimento web, com foco especial na criação de aplicações e microfront-ends utilizando **Angular**.
+Sou Bacharel em Sistemas de Informação e atualmente estou expandindo meu portfólio no desenvolvimento web, com foco especial na criação de aplicações utilizando **Angular**.
 
 **Sobre mim**
 - Estudando e desenvolvendo projetos com Angular (arquiteturas avançadas e integrações).
