@@ -27,7 +27,7 @@ Sou Bacharel em Sistemas de Informação e atualmente estou expandindo meu portf
 
 **Minhas Estatísticas**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-tb&amp;layout=compact&amp;theme=dracula&amp;hide=csharp" alt="Top Linguagens" />
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-tb&layout=compact&theme=dracula&hide=csharp&v=1)
 </div>
 
 <br>
